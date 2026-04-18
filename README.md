@@ -19,3 +19,5 @@ p6.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/p6.png
 p7.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/p7.png
 
 p8.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/p8.png
+
+p9.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/p9.png
