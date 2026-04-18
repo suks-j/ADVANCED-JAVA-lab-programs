@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
     <wb-module deploy-name="PrimeServlet">
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <property name="context-root" value="PrimeServlet"/>
         <property name="java-output-path" value="/PrimeServlet/build/classes"/>
+=======
+<<<<<<< HEAD
+    <wb-module deploy-name="CookieServlet">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="CookieServlet"/>
+        <property name="java-output-path" value="/CookieServlet/build/classes"/>
+=======
+    <wb-module deploy-name="FactorialusingServlet">
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <property name="context-root" value="FactorialusingServlet"/>
+        <property name="java-output-path" value="/FactorialusingServlet/build/classes"/>
+>>>>>>> branch 'master' of https://github.com/suks-j/ADVANCED-JAVA-lab-programs.git
+>>>>>>> branch 'master' of https://github.com/suks-j/ADVANCED-JAVA-lab-programs.git
     </wb-module>
 </project-modules>

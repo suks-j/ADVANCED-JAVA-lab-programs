@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>PrimeServlet</name>
+=======
+<<<<<<< HEAD
+	<name>CookieServlet</name>
+=======
+	<name>FactorialusingServlet</name>
+>>>>>>> branch 'master' of https://github.com/suks-j/ADVANCED-JAVA-lab-programs.git
+>>>>>>> branch 'master' of https://github.com/suks-j/ADVANCED-JAVA-lab-programs.git
 	<comment></comment>
 	<projects>
 	</projects>
