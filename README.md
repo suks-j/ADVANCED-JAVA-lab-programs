@@ -64,3 +64,5 @@ https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/TabbedPaneColorDe
 
 CMTTabbedPaneDemo.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/CMYTabbedPaneDemo1.png
 https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/CMYTabbedPaneDemo2.png
+
+CountryCapitalDemo.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/CountryCapitalDemo.png
