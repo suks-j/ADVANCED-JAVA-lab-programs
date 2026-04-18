@@ -41,3 +41,5 @@ p14.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/p14.png
 p15.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/p15.png
 
 p16.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/p16.png
+
+p17.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/p17.png
