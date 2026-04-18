@@ -47,9 +47,9 @@ p17.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/p17.png
 p18.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/p18.png
 
 CountryButtonDemo.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/CountryButtonDemo1.png
-                      :https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/CountryButtonDemo2.png
-                      :https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/CountryButtonDemo3.png
+https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/CountryButtonDemo2.png
+https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/CountryButtonDemo3.png
 
 ImageButtonDemo.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/ImageButtonDemo1.png
-
+https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/ImageButtonDemo2.png
                     
