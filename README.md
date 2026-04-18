@@ -27,3 +27,5 @@ p10.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/p10.png
 PerformanceTest.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/PerformanceTest.png
 
 StringOperationsDemo.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/StringOperationsDemo.png
+
+StringOPerations.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/StringOperations.png
