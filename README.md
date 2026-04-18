@@ -4,11 +4,11 @@ HelloSwing.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/H
 
 ListOperations.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/ListOperations.png
 
-p1.java:https:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/p1.png
+p1.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/p1.png
 
-p2.java:https:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/p2.png
+p2.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/p2.png
 
-p3.java:https:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/p3.png
+p3.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/p3.png
 
 p4.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/p4.png
 
