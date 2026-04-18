@@ -31,3 +31,5 @@ StringOperationsDemo.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/b
 StringOPerations.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/StringOperations.png
 
 p11.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/p11.png
+
+p12.java:https://github.com/suks-j/ADVANCED-JAVA-lab-programs/blob/main/p12.png
